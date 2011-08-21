@@ -1,0 +1,19 @@
+[Eagle]
+Version="04 09 20"
+Platform="Windows"
+Serial="6503359F33-LSR-W-5CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+
+[Win_1]
+Type="Control Panel"
+Loc="176 176 1152 697"
+State=2
+Number=0
+
+[Desktop]
+Screen="1680 1050"
+Window="Win_1"

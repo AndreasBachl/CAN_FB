@@ -1,0 +1,29 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for C:/Programme/EAGLE/projects/CAN_HB/CAN_FB.sch at 05.04.2009 03:01:40 
+
+WARNING: Sheet 1/4: POWER Pin U$1 VDD connected to +5V
+WARNING: Sheet 1/4: POWER Pin U$1 VSS connected to GND
+WARNING: Sheet 1/4: POWER Pin U$1 VDDA/VREFH connected to +5V
+WARNING: Sheet 1/4: POWER Pin U$1 VSSA/VREFL connected to GND
+WARNING: Sheet 1/4: POWER Pin IC2 VCC connected to +5V
+WARNING: Sheet 2/4: POWER Pin U$2 VDD connected to +5V
+WARNING: Sheet 2/4: POWER Pin U$2 VSS connected to GND
+WARNING: Sheet 2/4: POWER Pin U$2 VDDA/VREFH connected to +5V
+WARNING: Sheet 2/4: POWER Pin U$2 VSSA/VREFL connected to GND
+WARNING: Sheet 2/4: POWER Pin IC4 VCC connected to +5V
+WARNING: Sheet 3/4: POWER Pin U$3 VDD connected to +5V
+WARNING: Sheet 3/4: POWER Pin U$3 VSS connected to GND
+WARNING: Sheet 3/4: POWER Pin U$3 VDDA/VREFH connected to +5V
+WARNING: Sheet 3/4: POWER Pin U$3 VSSA/VREFL connected to GND
+WARNING: Sheet 3/4: POWER Pin IC7 VCC connected to +5V
+WARNING: Sheet 4/4: POWER Pin U$4 VDD connected to +5V
+WARNING: Sheet 4/4: POWER Pin U$4 VSS connected to GND
+WARNING: Sheet 4/4: POWER Pin U$4 VDDA/VREFH connected to +5V
+WARNING: Sheet 4/4: POWER Pin U$4 VSSA/VREFL connected to GND
+WARNING: Sheet 4/4: POWER Pin IC10 VCC connected to +5V
+
+Board and schematic are consistent
+
+    0 errors
+   20 warnings
