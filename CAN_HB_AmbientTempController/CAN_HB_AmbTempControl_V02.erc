@@ -1,0 +1,19 @@
+EAGLE Version 4.09r2 Copyright (c) 1988-2002 CadSoft
+
+Electrical Rule Check for D:/Projekte/HausBus/Hardware/CAN_HB_AmbientTempController/CAN_HB_AmbTempControl_V02.sch at 12.12.2011 19:17:13 
+
+WARNING: Sheet 1/1: unconnected Pin: U$10 C
+WARNING: Sheet 1/1: unconnected Pin: U$10 A
+WARNING: Sheet 1/1: unconnected Pin: U$11 C
+WARNING: Sheet 1/1: unconnected Pin: U$11 A
+WARNING: Sheet 1/1: SUPPLY Pin VCC overwritten with +5V
+WARNING: Sheet 1/1: POWER Pin U$1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin U$1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin U$1 VDDA/VREFH connected to +5V
+WARNING: Sheet 1/1: POWER Pin U$1 VSSA/VREFL connected to GND
+WARNING: Sheet 1/1: POWER Pin IC2 VCC connected to +5V
+
+Board and schematic are consistent
+
+    0 errors
+   10 warnings
