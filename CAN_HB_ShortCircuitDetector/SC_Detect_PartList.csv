@@ -1,0 +1,18 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"ULN2803AD";"SO18L";"IC2";"DRIVER ARRAY";"";
+"1";"";"W237-136";"W237-136";"X1";"WAGO SCREW CLAMP";"";
+"8";"100k";"R-EU_R0805";"R0805";"R3, R18, R19, R28, R29, R33, R35, R36";"RESISTOR, European symbol";"";
+"10";"10k";"R-EU_R0805";"R0805";"R4, R5, R7, R8, R9, R10, R11, R12, R13, R17";"RESISTOR, European symbol";"";
+"1";"12V/12V";"NME";"NME";"DC1";"DC-DC CONVERTER";"";
+"1";"15k";"R-EU_R0805";"R0805";"R14";"RESISTOR, European symbol";"";
+"2";"18k";"R-EU_R0805";"R0805";"R2, R25";"RESISTOR, European symbol";"";
+"8";"1N4148";"DIODE-SOD80C";"SOD80C";"D3, D4, D5, D6, D7, D8, D9, D10";"DIODE";"";
+"1";"2k2";"R-EU_R0805";"R0805";"R24";"RESISTOR, European symbol";"";
+"8";"2k7";"R-EU_R0805";"R0805";"R20, R21, R22, R26, R27, R30, R31, R32";"RESISTOR, European symbol";"";
+"3";"3k9";"R-EU_R0805";"R0805";"R6, R15, R23";"RESISTOR, European symbol";"";
+"2";"4k7";"R-EU_R0805";"R0805";"R1, R16";"RESISTOR, European symbol";"";
+"4";"BAT54S SMD";"DIODE_2CACA-SOT23";"SOT23";"D1, D2, D11, D12";"2 Diodes - Cathode-Anode|Cathode-Anode";"";
+"1";"EB2209A";"EB2209A";"EB2209A";"SG1";"BUZZER Source: Buerklin";"";
+"8";"LED_3MM_ST_RT";"LED3MM";"LED3MM";"LED12V-, LED_12V+, LED_CAN_H+, LED_CAN_H-, LED_CAN_L+, LED_CAN_L-, LED_GND+, LED_GND-";"LED";"";
+"1";"LM324D";"LM324D";"SO14";"IC1";"OP AMP";"";
+"2";"LM339D";"LM339D";"SO14";"IC3, IC4";"COMPARATOR";"";
