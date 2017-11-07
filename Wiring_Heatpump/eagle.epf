@@ -350,12 +350,21 @@ UsedLibraryUrn="urn:adsk.eagle:library:177"
 UsedLibrary="D:/Projekte/HausBus/Hardware/Common/lbr/My.lbr"
 UsedLibrary="D:/Projekte/HausBus/Hardware/Common/lbr/con-ria.lbr"
 UsedLibrary="D:/Projekte/HausBus/Hardware/Common/lbr/con-wago-508.lbr"
+UsedLibrary="D:/Projekte/HausBus/Hardware/Common/lbr/e-messinstrumente.lbr"
+UsedLibrary="D:/Projekte/HausBus/Hardware/Common/lbr/e-schuetze-relais.lbr"
 UsedLibrary="D:/Projekte/HausBus/Hardware/Common/lbr/optocoupler.lbr"
+UsedLibrary="C:/Program Files/Eagle/8_4_1/lbr/elektro/e-symbole.lbr"
+UsedLibrary="C:/Program Files/Eagle/8_4_1/lbr/elektro/e-stromversorgungselemente.lbr"
+UsedLibrary="C:/Program Files/Eagle/8_4_1/lbr/elektro/e-steckverbinder.lbr"
+UsedLibrary="C:/Program Files/Eagle/8_4_1/lbr/elektro/e-sicherungen.lbr"
+UsedLibrary="C:/Program Files/Eagle/8_4_1/lbr/elektro/e-schalter.lbr"
+UsedLibrary="C:/Program Files/Eagle/8_4_1/lbr/elektro/e-klemmen.lbr"
+UsedLibrary="C:/Program Files/Eagle/8_4_1/lbr/elektro/e-motoren.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="-11 17 1188 656"
-State=2
+Loc="441 95 2360 1111"
+State=0
 Number=0
 
 [Desktop]
