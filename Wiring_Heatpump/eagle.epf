@@ -363,7 +363,7 @@ UsedLibrary="C:/Program Files/Eagle/8_4_1/lbr/elektro/e-motoren.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="441 95 2360 1111"
+Loc="0 0 1599 859"
 State=0
 Number=0
 
